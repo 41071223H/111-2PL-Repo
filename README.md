@@ -5,4 +5,5 @@
 #### 系級:科技系114級
 #### 課程筆記區 
 #### 作業連結區 
+https://github.com/41071223H/111-2PL-Repo/blob/2f46ca2fc99908e9c50509076fd7a7bad5912cd9/HW2.ipynb
 #### 專題連結區
