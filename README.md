@@ -5,6 +5,7 @@
 #### 系級:科技系114級
 #### 課程筆記區 
 #### [W7練習](https://github.com/41071223H/111-2PL-Repo/blob/99e0a9a196a6cc5a9d278d2d8d8cbfa0315879eb/W7%E7%B7%B4%E7%BF%92.ipynb)
+#### [W9練習](https://github.com/41071223H/111-2PL-Repo/blob/8a53aac82f98d6829da237f3d0fdf154037e1119/W9%E7%B7%B4%E7%BF%92.ipynb)
 #### 作業連結區 
 #### [HW1](https://github.com/41071223H/111-2PL-Repo/blob/ee8e66bbbe078258337955de5b632c482d47c177/HW1%20%E5%BB%B6%E4%BC%B8.ipynb)
 #### [HW2](https://github.com/41071223H/111-2PL-Repo/blob/2f46ca2fc99908e9c50509076fd7a7bad5912cd9/HW2.ipynb) 
