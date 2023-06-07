@@ -16,3 +16,5 @@
 #### [HW5](https://github.com/41071223H/111-2PL-Repo/blob/1eb55713feed29efde093456f3f1a0fe87db453d/HW5.ipynb)
 #### [Medium](https://medium.com/@potter20021130/%E5%85%A9%E6%AE%B5%E5%BC%8F%E5%BE%85%E8%BD%89-24ca9630bff9)
 #### 專題連結區
+#### [簡報](https://www.canva.com/design/DAFjL33_mlg/6Ut_Yy0YoHK2sok4FW2q7g/edit?utm_content=DAFjL33_mlg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+#### [Figma](https://www.figma.com/team_invite/redeem/GpIHzXGMwFYk0UfeV8J4T5)
